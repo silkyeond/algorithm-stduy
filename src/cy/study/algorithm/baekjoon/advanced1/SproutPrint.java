@@ -1,7 +1,4 @@
-package cy.study.algorithm.baekjoon.Advanced1;
-
-import java.io.*;
-import java.util.*;
+package cy.study.algorithm.baekjoon.advanced1;
 
 public class SproutPrint {
   public static void main(String[] args) throws Exception {

@@ -1,4 +1,4 @@
-package cy.study.algorithm.baekjoon.Advanced1;
+package cy.study.algorithm.baekjoon.advanced1;
 
 import java.io.*;
 import java.util.*;
